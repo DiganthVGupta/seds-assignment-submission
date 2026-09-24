@@ -130,3 +130,8 @@ twice, and how to avoid checking a ball against itself.
 
 Submission details will be announced separately, so don't worry about that part
 for now.
+
+
+
+answers to the questions:
+
